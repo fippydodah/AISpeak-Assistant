@@ -24,3 +24,4 @@ Before you begin, ensure you have met the following requirements:
   - `pyttsx3` (for non-macOS platforms)
 
 You are going to need brew in order to download ffmpeg and use pip for the other python libraries.
+IMPORTANT: Some of these python libraries were giving me greif so I reccomend setting up a python vm in order to download them.
